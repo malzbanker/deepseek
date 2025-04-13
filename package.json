@@ -11,7 +11,7 @@
   "dependencies": {
     "@clerk/nextjs": "^6.12.12",
     "axios": "^1.8.4",
-    "mongoose": "^8.13.1",
+    "mongoose": "^8.13.2",
     "next": "15.2.3",
     "openai": "^4.91.1",
     "prismjs": "^1.30.0",
